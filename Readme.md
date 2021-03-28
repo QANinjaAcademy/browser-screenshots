@@ -46,11 +46,11 @@ robot -d ./logs shots.robot
 ---
 
 <h1 align="left">
-    <img alt="QAcademy" src=".github/logo.png" width="150px" />
+    <img alt="QA Ninja Academy" src=".github/logo.png" width="150px" />
 </h1>
 
 ## :rocket: Meu curso completo Robot Framework
 
-- [No Campus da QA Ninja Acadent](https://qaninja.academy/)
+- [No Campus da QA Ninja Academy](https://qaninja.academy/)
 
 Feito com ♥ in OZ :wave: [Saiba mais aqui!](https://qaninja.academy/)
