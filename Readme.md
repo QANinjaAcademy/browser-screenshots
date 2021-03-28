@@ -1,7 +1,7 @@
 
 ## :camera: Screenshots do Robot + Browser Lib
 
-Você vai precisar das seguintes ferramentas e tecnologias:
+Você vai precisar das seguintes tecnologias:
 
 - [Python 3.7 ou superior](https://www.python.org/downloads/)
 - [Node.js](https://nodejs.org/en/)
